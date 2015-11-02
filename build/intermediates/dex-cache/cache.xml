@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\androidsdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\tobykentrunzhi\Desktop\RecyclerView\Application\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-d714f938d0230e10479aaa594689c4e373b8b4ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\tobykentrunzhi\Desktop\RecyclerView\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="C:\Users\tobykentrunzhi\Desktop\RecyclerView\Application\build\intermediates\pre-dexed\debug\classes-dee238a055061ce7f646f3cd227ca94ff0918067.jar" />
+    </item>
+    <item
+        jar="C:\Users\tobykentrunzhi\Desktop\RecyclerView\Application\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4796f18d3750bf2bfa078407a94a7f9db35b440d">
+        <dex dex="C:\Users\tobykentrunzhi\Desktop\RecyclerView\Application\build\intermediates\pre-dexed\debug\classes-fac60b78f70493ee514feddb33d6de88691c40d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\tobykentrunzhi\Desktop\RecyclerView\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\tobykentrunzhi\Desktop\RecyclerView\Application\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-ab8b333dfb89f67cced3702da2b8456376d481ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\tobykentrunzhi\Desktop\RecyclerView\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1618fd467fb5971c394741e8976ededb97aaee0a">
+        <dex dex="C:\Users\tobykentrunzhi\Desktop\RecyclerView\Application\build\intermediates\pre-dexed\debug\classes-f33ff66a364bcff9baf7699198053b7f237593fa.jar" />
+    </item>
+    <item
+        jar="C:\Users\tobykentrunzhi\Desktop\RecyclerView\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\tobykentrunzhi\Desktop\RecyclerView\Application\build\intermediates\pre-dexed\debug\classes-b4f1bcc1b71daa11678d34732406abba49d40ab4.jar" />
+    </item>
+
+</items>
